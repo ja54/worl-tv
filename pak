@@ -1,0 +1,357 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas
+http://nitro.ltd:25461/live/Edward/Edward/2998.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO", Imagen Tv
+http://nitro.ltd:25461/live/Edward/Edward/17741.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="MEXICO", Canal 5 HD
+http://nitro.ltd:25461/live/Edward/Edward/2999.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
+http://nitro.ltd:25461/live/Edward/Edward/3001.m3u8
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/11/Galavision_3D.jpg" group-title="Latinos", GALAVISION
+http://nitro.ltd:25461/live/Edward/Edward/2986.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
+http://nitro.ltd:25461/live/Edward/Edward/6064.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="CULTURA", Animal Planet
+http://nitro.ltd:25461/live/Edward/Edward/18934.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="CULTURA", Discovery Channel
+http://nitro.ltd:25461/live/Edward/Edward/18886.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRVX/09b104b39b.png" group-title="CULTURA", Discovery Civilization
+http://nitro.ltd:25461/live/Edward/Edward/18885.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="CULTURA", Discovery H&H
+http://nitro.ltd:25461/live/Edward/Edward/18884.m3u8
+#EXTINF:-1 tvg-logo="http://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo-640x239.jpg" group-title="CULTURA", Discovery Science
+http://nitro.ltd:25461/live/Edward/Edward/18880.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRZf/b724b419e5.png" group-title="CULTURA", Discovery Theater
+http://nitro.ltd:25461/live/Edward/Edward/18879.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRZC/14ff477422.png" group-title="CULTURA", Discovery Turbo
+http://nitro.ltd:25461/live/Edward/Edward/18878.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reS0X/3496f4a93c.png" group-title="CULTURA", Discovery World 
+http://nitro.ltd:25461/live/Edward/Edward/18870.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CULTURA/14.png" group-title="CULTURA", Discovery TLC
+http://nitro.ltd:25461/live/Edward/Edward/18886.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/14.png" group-title="CULTURA", Investigation Discovery
+http://nitro.ltd:25461/live/Edward/Edward/18880.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="CULTURA", History
+http://nitro.ltd:25461/live/Edward/Edward/18840.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="CULTURA", NatGeo
+http://nitro.ltd:25461/live/Edward/Edward/18821.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="CULTURA", NatGeo Wild 
+http://nitro.ltd:25461/live/Edward/Edward/18822.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reX61/7468ec8819.png" group-title="CULTURA", E! Entertainment
+http://nitro.ltd:25461/live/Edward/Edward/17788.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO",UNIVISION
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ultraluna" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="CANALES ULTRA",ultraluna
+http://plexonline.club:25461/live/listam3u32/sinxxx/396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ultrafilm" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilm_NLogo.png" group-title="CANALES ULTRA",ultrafilm
+http://plexonline.club:25461/live/listam3u32/sinxxx/400.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ultrafamilia" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png" group-title="",ultrafamilia
+http://plexonline.club:25461/live/listam3u32/sinxxx/402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ultradocu" tvg-logo="http://logos.megaplay.xyz/Ultra-Docu-Olympusat_o.jpg" group-title="CANALES ULTRA",ultradocu
+http://plexonline.club:25461/live/listam3u32/sinxxx/403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ultracine" tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-cine-85364974.jpg" group-title="CANALES ULTRA",ultracine
+http://plexonline.club:25461/live/listam3u32/sinxxx/397.ts
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="USA TBS" tvg-logo="https://static.iptv-epg.com/mx/TBS.mx.png" group-title="INGLISH",USA TBS
+http://plexonline.club:25461/live/listam3u32/sinxxx/389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA TNT" tvg-logo="https://static.iptv-epg.com/pl/TNT.pl.png" group-title="INGLISH",USA TNT
+http://plexonline.club:25461/live/listam3u32/sinxxx/387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA A&E" tvg-logo="https://static.iptv-epg.com/pa/AandELatinAmerica.pa.png" group-title="INGLISH",USA A&E
+http://plexonline.club:25461/live/listam3u32/sinxxx/388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INGLISH",NAT GEO WILD
+http://plexonline.club:25461/live/listam3u32/sinxxx/385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO" tvg-logo="https://pmcvariety.files.wordpress.com/2013/04/ng_logo_2line_rgb_wht_on_bk.jpg" group-title="INGLISH",NAT GEO
+http://plexonline.club:25461/live/listam3u32/sinxxx/384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Entertainment" tvg-logo="https://static.iptv-epg.com/gb/EEntertainment.uk.png" group-title="INGLISH",Entertainment
+http://plexonline.club:25461/live/listam3u32/sinxxx/386.ts
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="INFANTILES: DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTILES",INFANTILES: DISNEY JR
+http://plexonline.club:25461/live/listam3u32/sinxxx/357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INFANTILES | NATGEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",INFANTILES | NATGEO KIDS
+http://plexonline.club:25461/live/listam3u32/sinxxx/359.ts
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="INFANTILES: DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="INFANTILES",INFANTILES: DISNEY XD
+http://plexonline.club:25461/live/listam3u32/sinxxx/353.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="INFANCTILES: NICK JR" tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="INFANTILES",INFANCTILES: NICK JR
+http://plexonline.club:25461/live/listam3u32/sinxxx/352.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIAJAR HD" tvg-logo="" group-title="ESPAÑA",VIAJAR HD
+http://plexonline.club:25461/live/listam3u32/sinxxx/284.ts
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CULTURA| HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="MUNDO Y CULTURA",CULTURA| HISTORY CHANNEL
+http://plexonline.club:25461/live/listam3u32/sinxxx/345.ts
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MUNDO CULTURA | Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="MUNDO Y CULTURA",MUNDO CULTURA | Nat Geo Wild HD
+http://plexonline.club:25461/live/listam3u32/sinxxx/341.ts
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRATENIMIENTO |  DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",ENTRATENIMIENTO |  DISTRITO COMEDIA
+http://plexonline.club:25461/live/listam3u32/sinxxx/335.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 XMEN" tvg-logo="https://image.tmdb.org/t/p/w780/q2g5hDOx80xN6jlMYbvKLCsOESD.jpg" group-title="24/7",24/7 XMEN
+http://plexonline.club:25461/live/listam3u32/sinxxx/109.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Smallville" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510rPeJZU9L._SX425_.jpg" group-title="24/7",24/7 Smallville
+http://plexonline.club:25461/live/listam3u32/sinxxx/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Los Simpson" tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/03/simpsons-the-great-phatsby-1-920x584.jpg" group-title="24/7",24/7 Los Simpson
+http://plexonline.club:25461/live/listam3u32/sinxxx/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Shark Tank México" tvg-logo="" group-title="24/7",24/7 Shark Tank México
+http://plexonline.club:25461/live/listam3u32/sinxxx/106.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Sailor Moon" tvg-logo="https://www.calendars.com/img/p/orig/202000010484.jpg" group-title="24/7",24/7 Sailor Moon
+http://plexonline.club:25461/live/listam3u32/sinxxx/121.ts
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO: IMAGEN TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MEXICO",MEXICO: IMAGEN TELEVISION
+http://plexonline.club:25461/live/listam3u32/sinxxx/277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO: FORO TV" tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",MEXICO: FORO TV
+http://plexonline.club:25461/live/listam3u32/sinxxx/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO: Canal ONE nacional" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",MEXICO: Canal ONE nacional
+http://plexonline.club:25461/live/listam3u32/sinxxx/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO: CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",MEXICO: CANAL DE LAS ESTRELLAS
+http://plexonline.club:25461/live/listam3u32/sinxxx/158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO|CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="MEXICO",MEXICO|CANAL 5
+http://plexonline.club:25461/live/listam3u32/sinxxx/258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO: AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Azteca_Uno_%282018%29.jpg" group-title="MEXICO",MEXICO: AZTECA UNO
+http://plexonline.club:25461/live/listam3u32/sinxxx/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO: AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_Azteca_7_2011.svg" group-title="MEXICO",MEXICO: AZTECA 7
+http://plexonline.club:25461/live/listam3u32/sinxxx/263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO | AZTECA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Azteca_Uno_%282018%29.jpg" group-title="MEXICO",MEXICO | AZTECA 1
+http://plexonline.club:25461/live/listam3u32/sinxxx/259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO : TV UNAM" tvg-logo="https://i.imgur.com/1lfAyDm.png" group-title="MEXICO",MEXICO : TV UNAM
+http://plexonline.club:25461/live/listam3u32/sinxxx/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO : TELEFORMULA" tvg-logo="https://i.imgur.com/zXJPqDn.png" group-title="MEXICO",MEXICO : TELEFORMULA
+http://plexonline.club:25461/live/listam3u32/sinxxx/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO : AZTECA 7" tvg-logo="" group-title="MEXICO",MEXICO : AZTECA 7
+http://plexonline.club:25461/live/listam3u32/sinxxx/154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEXICO : ADN 40" tvg-logo="https://i.imgur.com/pEj3hCA.png" group-title="MEXICO",MEXICO : ADN 40
+http://plexonline.club:25461/live/listam3u32/sinxxx/68.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Malcolm in the middle" tvg-logo="https://www.eldesconcierto.cl/wp-content/uploads/2019/08/malcolm.jpg" group-title="24/7",24/7 Malcolm in the middle
+http://plexonline.club:25461/live/listam3u32/sinxxx/131.ts
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="INGLES:DISCOVERY TLC" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/220.png" group-title="INGLISH",INGLES:DISCOVERY TLC
+http://plexonline.club:25461/live/listam3u32/sinxxx/164.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INGLES:Discovery Science" tvg-logo="https://s3-eu-central-1.amazonaws.com/asteroidday-uploads/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png" group-title="INGLISH",INGLES:Discovery Science
+http://plexonline.club:25461/live/listam3u32/sinxxx/166.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="INFANTILES:TOONCAST" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="INFANTILES",INFANTILES:TOONCAST
+http://plexonline.club:25461/live/listam3u32/sinxxx/249.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="INFANTILES: Cartoon Network" tvg-logo="https://www.eitmedia.mx/media/k2/items/cache/3329d3457818ad53d5d679622eeb71cc_XL.jpg" group-title="INFANTILES",INFANTILES: Cartoon Network
+http://plexonline.club:25461/live/listam3u32/sinxxx/159.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="INFANCTILES: DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",INFANCTILES: DISNEY CHANNEL
+http://plexonline.club:25461/live/listam3u32/sinxxx/168.ts
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 (SAP)" tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="INGLISH",HBO 2 (SAP)
+http://plexonline.club:25461/live/listam3u32/sinxxx/62.ts
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO:WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO:WARNER CHANNEL
+http://plexonline.club:25461/live/listam3u32/sinxxx/257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO:UNICABLE" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO:UNICABLE
+http://plexonline.club:25461/live/listam3u32/sinxxx/256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO:CANAL FOX" tvg-logo="https://img2.freepng.es/20181122/pye/kisspng-logo-fox-channel-fox-networks-group-latin-america-5bf69ff4ca5908.8354122815428894608288.jpg" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO:CANAL FOX
+http://plexonline.club:25461/live/listam3u32/sinxxx/255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: A&E ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: A&E ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: UNIVERSAL CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: UNIVERSAL CHANNEL
+http://plexonline.club:25461/live/listam3u32/sinxxx/267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: SONY ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: SONY ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: FXM ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FXM ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: AXN
+http://plexonline.club:25461/live/listam3u32/sinxxx/241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO : Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="INGLISH",ENTRETENIMIENTO : Food Network
+http://plexonline.club:25461/live/listam3u32/sinxxx/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO : DW ESPAÑOL" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO : DW ESPAÑOL
+http://plexonline.club:25461/live/listam3u32/sinxxx/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETANIMIENTO : STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="ENTRETENIMIENTO",ENTRETANIMIENTO : STUDIO UNIVERSAL
+http://plexonline.club:25461/live/listam3u32/sinxxx/262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRATENIMIENTO : FOX LIFE ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="ENTRETENIMIENTO",ENTRATENIMIENTO : FOX LIFE ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/270.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNN International (Opt-1) (US)" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INGLISH",CNN International (Opt-1) (US)
+http://plexonline.club:25461/live/listam3u32/sinxxx/92.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA:SPACE" tvg-logo="https://images.inwx.com/flags/space.png" group-title="CINEMA",CINEMA:SPACE
+http://plexonline.club:25461/live/listam3u32/sinxxx/247.ts
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: PARAMOUNT NETWORK  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="CINEMA",CINEMA: PARAMOUNT NETWORK  ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINEMA",CINEMA: DE PELICULA
+http://plexonline.club:25461/live/listam3u32/sinxxx/264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: CINECANAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="CINEMA",CINEMA: CINECANAL
+http://plexonline.club:25461/live/listam3u32/sinxxx/266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: AMC ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINEMA",CINEMA: AMC ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: HBO LATINOAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: HBO LATINOAMERICA
+http://plexonline.club:25461/live/listam3u32/sinxxx/246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: HBO2 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: HBO2 ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM:HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM:HBO SIGNATURE
+http://plexonline.club:25461/live/listam3u32/sinxxx/244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: HBO +" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/HBO_PLUS__Black-lr.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: HBO +
+http://plexonline.club:25461/live/listam3u32/sinxxx/245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM:FOX SERIES PREMIUM" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM:FOX SERIES PREMIUM
+http://plexonline.club:25461/live/listam3u32/sinxxx/233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX MOVIES
+http://plexonline.club:25461/live/listam3u32/sinxxx/234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX FAMILY" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_FAMILY.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX FAMILY
+http://plexonline.club:25461/live/listam3u32/sinxxx/235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-comedy-hd_m.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX COMEDY
+http://plexonline.club:25461/live/listam3u32/sinxxx/236.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX CLASSIC" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics-hd_m.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX CLASSIC
+http://plexonline.club:25461/live/listam3u32/sinxxx/237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX ACTION" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX ACTION
+http://plexonline.club:25461/live/listam3u32/sinxxx/239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM : MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM : MAX PRIME
+http://plexonline.club:25461/live/listam3u32/sinxxx/279.ts
+
+
+
+
+#EXTINF:1 Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:4 UNICABLE
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/256.ts
+#EXTINF:5 DISTRITO COMEDIA
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/335.ts
+#EXTINF:-1 tvg-id="" tvg-logo="", HBO PLUS
+http://mylatinotv.com:25461/live/everardo/everardo/19823.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="", CANAL 5
+http://mylatinotv.com:25461/live/everardo/everardo/71713.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", AZTECA 7
+http://mylatinotv.com:25461/live/everardo/everardo/71700.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TUDN
+http://mylatinotv.com:25461/live/everardo/everardo/19917.m3u8
+#EXTINF:-1,TELEMAX SONORA
+https://5d0aa1440961a.streamlock.net/telemax/telemax/chunklist_w1191742650.m3u8
+#EXTINF:-1,FORO TV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="MEXICO", Az Corazon
+http://23.237.122.82:8080/Azcorazon/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=112
+#EXTINF:-1 tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title="MEXICO", Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", Multimedios Monterrey 
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="Latinos", Unicable
+http://23.237.122.82:8080/Unicable/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=107
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uLOKcnS.png" group-title="XXX",Private
+http://151.236.240.6:4021/udp/239.0.9.17:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q8LP7EX.png" group-title="XXX",Private HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q8LP7EX.png" group-title="XXX",Private HD
+http://51.15.125.186:8081/live/faptvparody/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q8LP7EX.png" group-title="XXX",Private HD
+http://51.15.125.186:8081/live/ola/playlist.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/EWkFM9u.jpg" group-title = "XXX", Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:0 group-title = "XXX",Dorcel TV (18+)
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 tvg-ID="" tvg-name="Alba XXX-6" tvg-logo="" group-title=", Alba XXX-6
+http://stream.iptvesun.com:25461/jack0629y03/063drR4O9S/28582
+#EXTINF:-1 tvg-ID="" tvg-name="BALKAN EROTIC" tvg-logo="" group-title=", BALKAN EROTIC
+http://stream.iptvesun.com:25461/jack0629y03/063drR4O9S/28589
+#EXTINF:-1 tvg-ID="" tvg-name="Alba XXX-HD1" tvg-logo="" group-title=", Alba XXX-HD1
+http://stream.iptvesun.com:25461/jack0629y03/063drR4O9S/28583
+#EXTINF:-1 tvg-ID="" tvg-name="CZECH MASSAGE" tvg-logo="" group-title=", CZECH MASSAGE
+http://stream.iptvesun.com:25461/jack0629y03/063drR4O9S/28593
+#EXTINF:-1 tvg-ID="" tvg-name="DORCEL" tvg-logo="" group-title=", DORCEL 
+http://stream.iptvesun.com:25461/jack0629y03/063drR4O9S/28594
+#EXTINF:-1 tvg-ID="" tvg-name="HUSTLER HD" tvg-logo="" group-title=", HUSTLER HD
+http://stream.iptvesun.com:25461/jack0629y03/063drR4O9S/28603
